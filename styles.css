@@ -31,6 +31,6 @@ body{
 /* Media query for screens smaller than 600px (typical mobile devices) */
 @media only screen and (max-width: 600px) {
   .clock {
-      font-size: 4rem; /* Adjust the font size for smaller screens */
+      font-size: 3rem; /* Adjust the font size for smaller screens */
   }
 }
