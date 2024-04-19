@@ -27,3 +27,10 @@ body{
     text-shadow: 3px 3px 5px hsla(0, 0%, 0%, 0.75);
     color: white;
   }
+
+/* Media query for screens smaller than 600px (typical mobile devices) */
+@media only screen and (max-width: 600px) {
+  .clock {
+      font-size: 4rem; /* Adjust the font size for smaller screens */
+  }
+}
