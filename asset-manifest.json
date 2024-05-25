@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-clocl/static/css/main.3233edb9.css",
+    "main.js": "/react-clocl/static/js/main.8e72d028.js",
+    "static/media/colorful-galaxy-digital-art.jpg": "/react-clocl/static/media/colorful-galaxy-digital-art.a106aebf525ac38fad5e.jpg",
+    "index.html": "/react-clocl/index.html",
+    "main.3233edb9.css.map": "/react-clocl/static/css/main.3233edb9.css.map",
+    "main.8e72d028.js.map": "/react-clocl/static/js/main.8e72d028.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3233edb9.css",
+    "static/js/main.8e72d028.js"
+  ]
+}
